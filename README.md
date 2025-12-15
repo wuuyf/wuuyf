@@ -6,9 +6,9 @@
 
 ### About Me
 
-- 🎓 **Goal**: Mastering Bio-info algorithms & aiming for **JLPT N2**.
-- 🏸 **Hobby**: Badminton (Former School Team Player).
-- 🐱 **Personality**: Cat person.
+- 📍 Mastering Bio-info algorithms & aiming for **JLPT N2**.
+- 🏸 Badminton (Former School Team Player).
+- 🐱 Cat person.
 
 ---
 
@@ -16,7 +16,6 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Bioinformatics-005F9E?style=flat&logo=dna&logoColor=white" />
   <img src="https://img.shields.io/badge/System_Analysis-FF6F00?style=flat&logo=jira&logoColor=white" />
 </p>
