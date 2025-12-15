@@ -1,17 +1,14 @@
-### Hi there, I'm Yuu! 👋 
+### Hi, I'm Yuu •ᴗ•
 
-Welcome to my profile! I'm a Master's student at **National Yang Ming Chiao Tung University (NYCU)**, specializing in **Biomedical Informatics**.
-
-Coming from an **Information Management** background, I love bridging the gap between complex data and human needs through **System Analysis**.
+Welcome to my profile! I'm currently an undergraduate student in **Information Management at Fu Jen Catholic University (FJU)**.
 
 ---
 
 ### 🚀 About Me
 
 - 🎓 **Current Goal**: Mastering Bio-info algorithms & aiming for **JLPT N2**.
-- 🏸 **Hobby**: Badminton player (Smashing code and shuttlecocks!).
-- 🐱 **Personality**: Cat person & Manga lover (Jump+ fan!).
-- 🇯🇵 **Dream**: Planning to work as a Bio-info Engineer in Japan.
+- 🏸 **Hobby**: Badminton player.
+- 🐱 **Personality**: Cat person.
 
 ---
 
@@ -24,17 +21,27 @@ Coming from an **Information Management** background, I love bridging the gap be
   <img src="https://img.shields.io/badge/System_Analysis-FF6F00?style=flat&logo=jira&logoColor=white" />
 </p>
 
-**My strengths:**
-- System Analysis & Design
-- Data Cleaning & Visualization
-- Integrating AI tools into workflows
-
 ---
 
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=wuuyf&show_icons=true&hide_title=true&count_private=true&hide=issues,contribs&theme=dracula" alt="wuuyf's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wuuyf&show_icons=true&hide_title=true&count_private=true&hide=issues,contribs&theme=radical" alt="wuuyf's GitHub stats" />
 </p>
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="50">
+---
+
+### 🐾 My Cats (The real bosses)
+
+<div align="left">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="purinn_ichigo.jpg" width="300" style="border-radius: 10px;" />
+        <br />
+        <br />
+        <b>⬅️ Strawberry (Girl) 🍓 &nbsp;&nbsp;|&nbsp;&nbsp; 🍮 Pudding (Boy) ➡️</b>
+      </td>
+    </tr>
+  </table>
+</div>
