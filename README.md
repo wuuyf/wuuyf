@@ -4,7 +4,7 @@ Welcome to my profile! I'm currently an undergraduate student in **Information M
 
 ---
 
-### 🚀 About Me
+### About Me
 
 - 🎓 **Current Goal**: Mastering Bio-info algorithms & aiming for **JLPT N2**.
 - 🏸 **Hobby**: Badminton player.
@@ -12,7 +12,7 @@ Welcome to my profile! I'm currently an undergraduate student in **Information M
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
@@ -23,7 +23,7 @@ Welcome to my profile! I'm currently an undergraduate student in **Information M
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=wuuyf&show_icons=true&hide_title=true&count_private=true&hide=issues,contribs&theme=radical" alt="wuuyf's GitHub stats" />
@@ -31,7 +31,7 @@ Welcome to my profile! I'm currently an undergraduate student in **Information M
 
 ---
 
-### 🐾 My Cats (The real bosses)
+### My Cats
 
 <div align="left">
   <table>
@@ -40,7 +40,7 @@ Welcome to my profile! I'm currently an undergraduate student in **Information M
         <img src="purinn_ichigo.jpg" width="300" style="border-radius: 10px;" />
         <br />
         <br />
-        <b>⬅️ Strawberry (Girl) 🍓 &nbsp;&nbsp;|&nbsp;&nbsp; 🍮 Pudding (Boy) ➡️</b>
+        <b>⬅️ 🍓 Strawberry（♀）&nbsp;&nbsp;|&nbsp;&nbsp; 🍮 Pudding（♂）➡️</b>
       </td>
     </tr>
   </table>
