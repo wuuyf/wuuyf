@@ -40,7 +40,7 @@ Welcome to my profile! I'm currently an undergraduate student in **Information M
         <img src="purinn_ichigo.jpg" width="300" style="border-radius: 10px;" />
         <br />
         <br />
-        <b>⬅️ 🍓 Strawberry（♀）&nbsp;&nbsp;|&nbsp;&nbsp; 🍮 Pudding（♂）➡️</b>
+        <b>⬅️ 🍓 Strawberry（♀）&nbsp;&nbsp;┊&nbsp;&nbsp; 🍮 Pudding（♂）➡️</b>
       </td>
     </tr>
   </table>
