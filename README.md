@@ -22,14 +22,6 @@
 
 ---
 
-### GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=wuuyf&show_icons=true&hide_title=true&count_private=true&hide=issues,contribs&theme=radical" alt="wuuyf's GitHub stats" />
-</p>
-
----
-
 ### My Cats
 
 <div align="left">
