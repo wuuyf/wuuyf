@@ -6,7 +6,7 @@
 
 ### About Me
 
-- 📍 Mastering Bio-info algorithms & aiming for **JLPT N2**.
+- 📍 Mastering Bio-info algorithms & aiming for JLPT N2.
 - 🏸 Badminton (Former School Team Player).
 - 🐱 Cat person.
 
