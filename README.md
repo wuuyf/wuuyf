@@ -8,6 +8,7 @@
 
 - 📍 Mastering Bio-info algorithms & aiming for JLPT N2.
 - 🏸 Badminton (Former School Team Player).
+- 🎨 Hobbyist Illustrator.
 - 🐱 Cat person.
 
 ---
