@@ -24,6 +24,8 @@
 
 ---
 
+<!-- My Cats section hidden for JP version -->
+<!--
 ### My Cats
 
 <div align="left">
@@ -40,5 +42,7 @@
 </div>
 
 ---
+-->
+
 ### Contact
 Email: yuhfanwu@gmail.com
