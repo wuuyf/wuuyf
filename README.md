@@ -6,10 +6,10 @@
 
 ### About Me
 
-- 📍 Mastering Bio-info algorithms & aiming for JLPT N2.
-- 🏸 Badminton (Former School Team Player).
-- 🎨 Hobbyist Illustrator.
-- 🐱 Cat person.
+- 📍 Mastering Bio-info algorithms & aiming for JLPT N2
+- 🏸 Badminton
+- 🎨 Hobbyist Illustrator
+- 🐱 Cat person
 
 ---
 
