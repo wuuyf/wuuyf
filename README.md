@@ -22,10 +22,12 @@
   <img src="https://img.shields.io/badge/System_Analysis-FF6F00?style=flat&logo=jira&logoColor=white" />
 </p>
 
----
 
 <!-- My Cats section hidden for JP version -->
 <!--
+
+---
+
 ### My Cats
 
 <div align="left">
