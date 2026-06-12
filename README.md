@@ -11,6 +11,7 @@
 <p align="center">
   <!-- 兩行學歷統一改成黑色質感的徽章 -->
   <img src="https://img.shields.io/badge/NYCU-BMI_Master_Student_(Sep_2026)-000000?style=flat-square&logo=graduation-cap&logoColor=white" />
+  </b>
   <img src="https://img.shields.io/badge/FJU-Information_Management_B.S.-000000?style=flat-square&logo=school&logoColor=white" />
 </p>
 
@@ -29,10 +30,10 @@
 
 #### 💻 Programming & Data
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="45" height="45" style="margin-right: 10px;" />
-  <img src="https://www.vectorlogo.zone/logos/bioconda/bioconda-icon.svg" alt="bioinformatics" width="45" height="45" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="jira" width="45" height="45" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="26" />
+  <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" height="26" />
+  <img src="https://img.shields.io/badge/Bioinformatics-005F9E?style=flat-square&logo=dna&logoColor=white" height="26" />
+  <img src="https://img.shields.io/badge/System_Analysis-FF6F00?style=flat-square&logo=jira&logoColor=white" height="26" />
 </p>
 
 <!-- 貓咪區塊：隱藏或顯示可自行決定 -->
