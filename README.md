@@ -14,7 +14,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/NYCU-BMI_Master_Student_(Sep_2026)-000000?style=flat-square&logo=graduation-cap&logoColor=white" height="38" />
   <br />
-  <img src="https://img.shields.io/badge/FJU-Information_Management_B.S.-000000?style=flat-square&logo=school&logoColor=white" height="38" />
+  <img src="https://img.shields.io/badge/FJCU-Information_Management_B.S.-000000?style=flat-square&logo=school&logoColor=white" height="38" />
 </p>
 
 ---
