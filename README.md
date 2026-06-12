@@ -2,7 +2,7 @@
   <img src="your_profile_image_or_avatar.png" width="100" style="border-radius: 50%;" />
 </p>
 
-<h1 align="center">Hi, I'm Yuu •ᴗ•</h1>
+<h2 align="center">Hi, I'm Yuu •ᴗ•</h2>
 
 <p align="center">
   <b>Student from Taiwan 🇹🇼</b>
@@ -11,7 +11,8 @@
 <p align="center">
   <!-- 兩行學歷統一改成黑色質感的徽章 -->
   <img src="https://img.shields.io/badge/NYCU-BMI_Master_Student_(Sep_2026)-000000?style=flat-square&logo=graduation-cap&logoColor=white" />
-  </b>
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/FJU-Information_Management_B.S.-000000?style=flat-square&logo=school&logoColor=white" />
 </p>
 
@@ -19,10 +20,10 @@
 
 ### 📌 About Me
 
-- 🧬 **Bioinformatics** & **Data Analysis** <!-- 有興趣且目前專注投入的研究領域。 -->
-- 📊 **System Analysis** <!-- 具備系統分析與專案規劃的實作能力。 -->
-- 🎨 **Hobbyist Illustrator** <!-- 喜歡畫畫，是個業餘插畫愛好者。 -->
-- 🐱 **Cat Person** <!-- 個不折不扣的貓奴。 -->
+- <img src="https://api.iconify.design/ph:dna-bold.svg?color=%234A90E2" width="18" height="18" style="vertical-align: middle; margin-right: 4px;" /> **Bioinformatics** & **Data Analysis** <!-- 有興趣且目前專注投入的研究領域。 -->
+- <img src="https://api.iconify.design/ph:chart-bar-bold.svg?color=%23F5A623" width="18" height="18" style="vertical-align: middle; margin-right: 4px;" /> **System Analysis** <!-- 具備系統分析與專案規劃的實作能力。 -->
+- <img src="https://api.iconify.design/ph:palette-bold.svg?color=%23E2849A" width="18" height="18" style="vertical-align: middle; margin-right: 4px;" /> **Hobbyist Illustrator** <!-- 喜歡畫畫，是個業餘插畫愛好者。 -->
+- <img src="https://api.iconify.design/ph:cat-bold.svg?color=%23A06CD5" width="18" height="18" style="vertical-align: middle; margin-right: 4px;" /> **Cat Person** <!-- 個不折不扣的貓奴。 -->
 
 ---
 
