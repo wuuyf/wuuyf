@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://api.iconify.design/openmoji:sunflower.svg" width="30" height="30" style="vertical-align: middle;" />
-  Student from Taiwan
+  Based in Taipei, Taiwan
   <img src="https://api.iconify.design/openmoji:flag-taiwan.svg" width="30" height="30" style="vertical-align: middle;" />
 </p>
 
