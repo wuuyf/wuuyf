@@ -23,7 +23,7 @@
 <br />
 <img src="https://github.com/user-attachments/assets/0537ee7a-1fe0-46b7-b8cf-7bd8e2d37928" width="25" height="25" style="vertical-align: middle; margin-right: 4px;" /> Digital Illustrator (Hobby) <!-- 喜歡畫畫，是個業餘插畫愛好者。 -->
 <br />
-<img src="https://api.iconify.design/noto-v1:cat.svg" width="25" height="25" style="vertical-align: middle; margin-right: 4px;" /> Cat Person <!-- 個不折不扣的貓奴。 -->
+<img width="25" height="25" src="https://github.com/user-attachments/assets/12e43f9a-c53b-4e07-b742-3433fea8ac6e" style="vertical-align: middle; margin-right: 4px;" /> Cat Person <!-- 個不折不扣的貓奴。 -->
 
 ---
 
