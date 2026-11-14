@@ -1,9 +1,9 @@
 <h3 align="center">
-  Hi, I'm Yuu ⟡
+  Hi, I'm Yuu
 </h3>
 
 <p align="center">
-  Based in Taipei, Taiwan 🇹🇼
+  Based in Taipei, Taiwan
 </p>
 
 ---
@@ -17,9 +17,8 @@
 
 ### About Me
 
-<img src="https://github.com/user-attachments/assets/377f19f4-c810-4eef-a42e-1ffaa8cd743e" width="25" height="25" style="vertical-align: middle; margin-right: 4px;" /> Bioinformatics & Data Analysis <!-- 有興趣且目前專注投入的研究領域。 -->
-<br />
-<img src="https://github.com/user-attachments/assets/55c8c8e3-497a-4216-80b6-610b948e9695" width="25" height="25" style="vertical-align: middle; margin-right: 4px;" /> Systems Analysis <!-- 具備系統分析與專案規劃的實作能力。 -->
+
+<img src="https://github.com/user-attachments/assets/55c8c8e3-497a-4216-80b6-610b948e9695" width="25" height="25" style="vertical-align: middle; margin-right: 4px;" /> Systems Analysis & Data Analysis <!-- 具備系統分析與專案規劃的實作能力。 -->
 <br />
 <img src="https://github.com/user-attachments/assets/0537ee7a-1fe0-46b7-b8cf-7bd8e2d37928" width="25" height="25" style="vertical-align: middle; margin-right: 4px;" /> Digital Illustrator (Hobby) <!-- 喜歡畫畫，是個業餘插畫愛好者。 -->
 <br />
@@ -30,7 +29,7 @@
 ### Research Interests
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Bioinformatics-3A5F43?style=flat-square&logo=dna&logoColor=white" height="26" />
+  <img src="https://img.shields.io/badge/Medical_Informatics-7A8B99?style=flat-square&logo=databricks&logoColor=white" height="26" />
   <img src="https://img.shields.io/badge/Machine_Learning-C49147?style=flat-square&logo=scikit-learn&logoColor=white" height="26" />
   <img src="https://img.shields.io/badge/Systems_Analysis-9E5A63?style=flat-square&logo=jira&logoColor=white" height="26" />
 </p>
