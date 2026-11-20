@@ -6,14 +6,14 @@
   Based in Taipei, Taiwan
 </p>
 
----
-<!-- ### 🏫 School Section -->
+
+<!-- ### 🏫 School Section 
 
 <p align="left">
   <img src="https://img.shields.io/badge/NYCU-Biomedical_Informatics-000000?style=flat-square&logo=graduation-cap&logoColor=white" height="38" /><br />
   <img src="https://img.shields.io/badge/FJU-Information_Management-000000?style=flat-square&logo=graduation-cap&logoColor=white" height="38" />
 </p>
-
+-->
 ---
 
 ### About Me
@@ -21,9 +21,9 @@
 
 <p><img src="https://github.com/user-attachments/assets/55c8c8e3-497a-4216-80b6-610b948e9695" width="25" height="25" align="absmiddle" vspace="3" />&nbsp; Systems Analysis & Data Analysis
 </p> <!-- 具備系統分析與專案規劃的實作能力。 -->
-<p>
+<!--<p>
 <img src="https://github.com/user-attachments/assets/bcdb0ef8-efa7-43ca-8c86-c43023e0d7b1" width="25" height="25" align="absmiddle" vspace="3" />&nbsp; Former Badminton Athlete
-</p>
+</p>-->
 <p>
 <img src="https://github.com/user-attachments/assets/0537ee7a-1fe0-46b7-b8cf-7bd8e2d37928" width="25" height="25" align="absmiddle" vspace="3" />&nbsp; Digital Illustrator (Hobby) <!-- 喜歡畫畫，是個業餘插畫愛好者。 -->
 </p>
