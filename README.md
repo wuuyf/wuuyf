@@ -19,13 +19,20 @@
 ### About Me
 
 
-<img src="https://github.com/user-attachments/assets/55c8c8e3-497a-4216-80b6-610b948e9695" width="25" height="25" style="vertical-align: middle; margin-right: 4px;" /> Systems Analysis & Data Analysis <!-- 具備系統分析與專案規劃的實作能力。 -->
-<br />
-<img src="https://github.com/user-attachments/assets/0537ee7a-1fe0-46b7-b8cf-7bd8e2d37928" width="25" height="25" style="vertical-align: middle; margin-right: 4px;" /> Digital Illustrator (Hobby) <!-- 喜歡畫畫，是個業餘插畫愛好者。 -->
-<br />
-<img width="25" height="25" src="https://github.com/user-attachments/assets/12e43f9a-c53b-4e07-b742-3433fea8ac6e" style="vertical-align: middle; margin-right: 4px;" /> Cat Person <!-- 個不折不扣的貓奴。 -->
-<br />
-<img width="25" height="25" src="https://github.com/user-attachments/assets/a08ac4d0-9443-40f1-9d6e-d5e0ef984a99" style="vertical-align: middle; margin-right: 4px;" /> Learning Japanese
+<p><img src="https://github.com/user-attachments/assets/55c8c8e3-497a-4216-80b6-610b948e9695" width="25" height="25" align="absmiddle" vspace="3" />&nbsp; Systems Analysis & Data Analysis
+</p> <!-- 具備系統分析與專案規劃的實作能力。 -->
+<p>
+<img src="https://github.com/user-attachments/assets/bcdb0ef8-efa7-43ca-8c86-c43023e0d7b1" width="25" height="25" align="absmiddle" vspace="3" />&nbsp; Former Badminton Athlete
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/0537ee7a-1fe0-46b7-b8cf-7bd8e2d37928" width="25" height="25" align="absmiddle" vspace="3" />&nbsp; Digital Illustrator (Hobby) <!-- 喜歡畫畫，是個業餘插畫愛好者。 -->
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/12e43f9a-c53b-4e07-b742-3433fea8ac6e" width="25" height="25" align="absmiddle" vspace="3" />&nbsp; Cat Person <!-- 個不折不扣的貓奴。 -->
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/a08ac4d0-9443-40f1-9d6e-d5e0ef984a99" width="25" height="25" align="absmiddle" vspace="3" />&nbsp; Learning Japanese
+</p>
 
 
 ---
