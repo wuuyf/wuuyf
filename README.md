@@ -10,8 +10,9 @@
 <!-- ### 🏫 School Section -->
 
 <p align="left">
-  <img src="https://img.shields.io/badge/NYCU-Biomedical_Informatics-000000?style=flat-square&logo=graduation-cap&logoColor=white" height="38" />
-  </p>
+  <img src="https://img.shields.io/badge/NYCU-Biomedical_Informatics-000000?style=flat-square&logo=graduation-cap&logoColor=white" height="38" /><br />
+  <img src="https://img.shields.io/badge/FJU-Information_Management-000000?style=flat-square&logo=graduation-cap&logoColor=white" height="38" />
+</p>
 
 ---
 
@@ -23,6 +24,9 @@
 <img src="https://github.com/user-attachments/assets/0537ee7a-1fe0-46b7-b8cf-7bd8e2d37928" width="25" height="25" style="vertical-align: middle; margin-right: 4px;" /> Digital Illustrator (Hobby) <!-- 喜歡畫畫，是個業餘插畫愛好者。 -->
 <br />
 <img width="25" height="25" src="https://github.com/user-attachments/assets/12e43f9a-c53b-4e07-b742-3433fea8ac6e" style="vertical-align: middle; margin-right: 4px;" /> Cat Person <!-- 個不折不扣的貓奴。 -->
+<br />
+<img width="25" height="25" src="https://github.com/user-attachments/assets/a08ac4d0-9443-40f1-9d6e-d5e0ef984a99" style="vertical-align: middle; margin-right: 4px;" /> Learning Japanese
+
 
 ---
 
@@ -31,7 +35,10 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Medical_Informatics-7A8B99?style=flat-square&logo=databricks&logoColor=white" height="26" />
   <img src="https://img.shields.io/badge/Machine_Learning-C49147?style=flat-square&logo=scikit-learn&logoColor=white" height="26" />
-  <img src="https://img.shields.io/badge/Systems_Analysis-9E5A63?style=flat-square&logo=jira&logoColor=white" height="26" />
+  <img src="https://img.shields.io/badge/Computer_Vision-4F7C82?style=flat-square&logo=opencv&logoColor=white" height="38" />
+  <img src="https://img.shields.io/badge/Explainable_AI-7B6A9B?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyYTcgNyAwIDAgMC00IDEyLjdWMTdhMSAxIDAgMCAwIDEgMWg2YTEgMSAwIDAgMCAxLTF2LTIuM0E3IDcgMCAwIDAgMTIgMnpNOSAxOS41aDZWMjFhMSAxIDAgMCAxLTEgMWgtNGExIDEgMCAwIDEtMS0xeiIvPjwvc3ZnPgo%3D" height="38" />
+  <img src="https://img.shields.io/badge/Sports_Analytics-6B8E5A?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0zIDEuNWgxOEwxNiAxNUg4eiIvPjxwYXRoIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzAwMCIgc3Ryb2tlLW9wYWNpdHk9Ii4zIiBzdHJva2Utd2lkdGg9IjEuMSIgZD0iTTkgMmwxLjYgMTIuNU0xNSAybC0xLjYgMTIuNU01LjIgNy41aDEzLjYiLz48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTcuNSAxNWg5djJhNC41IDQuNSAwIDAgMS05IDB6Ii8%2BPC9zdmc%2BCg%3D%3D" height="38" />
+  </invoke>
 </p>
 
 ### Tech Stack & Tools
