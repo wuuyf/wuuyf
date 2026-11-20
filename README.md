@@ -6,14 +6,14 @@
   Based in Taipei, Taiwan
 </p>
 
-
-<!-- ### 🏫 School Section 
+---
+<!-- ### 🏫 School Section -->
 
 <p align="left">
   <img src="https://img.shields.io/badge/NYCU-Biomedical_Informatics-000000?style=flat-square&logo=graduation-cap&logoColor=white" height="38" /><br />
   <img src="https://img.shields.io/badge/FJU-Information_Management-000000?style=flat-square&logo=graduation-cap&logoColor=white" height="38" />
 </p>
--->
+
 ---
 
 ### About Me
